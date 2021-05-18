@@ -1,5 +1,3 @@
-# challenge-spring-boot
-
 # proyecto challenge by Lucas Segurola
 
 ## Pre-requisites
