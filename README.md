@@ -1,6 +1,6 @@
 # challenge-spring-boot
 
-#proyecto challenge by Lucas Segurola
+# proyecto challenge by Lucas Segurola
 
 ## Pre-requisites
 - Java 11 
